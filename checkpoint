@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/michaelgaras/dev/venv/cats_dogs/dogsvscats-0.001-6conv-basic.model"
+all_model_checkpoint_paths: "/Users/michaelgaras/dev/venv/cats_dogs/dogsvscats-0.001-6conv-basic.model"
